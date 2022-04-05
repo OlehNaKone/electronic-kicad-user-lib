@@ -1,0 +1,167 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ATmega168A-AU
+D 20MHz, 16kB Flash, 1kB SRAM, 512B EEPROM, TQFP-32
+K AVR 8bit Microcontroller MegaAVR
+F http://ww1.microchip.com/downloads/en/DeviceDoc/ATmega48A_88A_168A-Data-Sheet-40002007A.pdf
+$ENDCMP
+#
+$CMP ATmega168P-20AU
+D 20MHz, 16kB Flash, 1kB SRAM, 512B EEPROM, TQFP-32
+K AVR 8bit Microcontroller MegaAVR
+F http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-8025-8-bit-AVR-Microcontroller-ATmega48P-88P-168P_Datasheet.pdf
+$ENDCMP
+#
+$CMP ATmega168PA-AU
+D 20MHz, 16kB Flash, 1kB SRAM, 512B EEPROM, TQFP-32
+K AVR 8bit Microcontroller MegaAVR PicoPower
+F http://ww1.microchip.com/downloads/en/DeviceDoc/ATmega48PA_88PA_168PA-Data-Sheet-40002011A.pdf
+$ENDCMP
+#
+$CMP ATmega168PV-10AU
+D 10MHz, 16kB Flash, 1kB SRAM, 512B EEPROM, TQFP-32
+K AVR 8bit Microcontroller MegaAVR
+F http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-8025-8-bit-AVR-Microcontroller-ATmega48P-88P-168P_Datasheet.pdf
+$ENDCMP
+#
+$CMP ATmega328-AU
+D 20MHz, 32kB Flash, 2kB SRAM, 1kB EEPROM, TQFP-32
+K AVR 8bit Microcontroller MegaAVR
+F http://ww1.microchip.com/downloads/en/DeviceDoc/ATmega328_P%20AVR%20MCU%20with%20picoPower%20Technology%20Data%20Sheet%2040001984A.pdf
+$ENDCMP
+#
+$CMP ATmega328P-AU
+D 20MHz, 32kB Flash, 2kB SRAM, 1kB EEPROM, TQFP-32
+K AVR 8bit Microcontroller MegaAVR PicoPower
+F http://ww1.microchip.com/downloads/en/DeviceDoc/ATmega328_P%20AVR%20MCU%20with%20picoPower%20Technology%20Data%20Sheet%2040001984A.pdf
+$ENDCMP
+#
+$CMP ATmega48A-AU
+D 20MHz, 4kB Flash, 512B SRAM, 256B EEPROM, TQFP-32
+K AVR 8bit Microcontroller MegaAVR
+F http://ww1.microchip.com/downloads/en/DeviceDoc/ATmega48A_88A_168A-Data-Sheet-40002007A.pdf
+$ENDCMP
+#
+$CMP ATmega48P-20AU
+D 20MHz, 4kB Flash, 512B SRAM, 256B EEPROM, TQFP-32
+K AVR 8bit Microcontroller MegaAVR
+F http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-8025-8-bit-AVR-Microcontroller-ATmega48P-88P-168P_Datasheet.pdf
+$ENDCMP
+#
+$CMP ATmega48PA-AU
+D 20MHz, 4kB Flash, 512B SRAM, 256B EEPROM, TQFP-32
+K AVR 8bit Microcontroller MegaAVR PicoPower
+F http://ww1.microchip.com/downloads/en/DeviceDoc/ATmega48PA_88PA_168PA-Data-Sheet-40002011A.pdf
+$ENDCMP
+#
+$CMP ATmega88A-AU
+D 20MHz, 8kB Flash, 1kB SRAM, 512B EEPROM, TQFP-32
+K AVR 8bit Microcontroller MegaAVR
+F http://ww1.microchip.com/downloads/en/DeviceDoc/ATmega48A_88A_168A-Data-Sheet-40002007A.pdf
+$ENDCMP
+#
+$CMP ATmega88P-20AU
+D 20MHz, 8kB Flash, 1kB SRAM, 512B EEPROM, TQFP-32
+K AVR 8bit Microcontroller MegaAVR
+F http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-8025-8-bit-AVR-Microcontroller-ATmega48P-88P-168P_Datasheet.pdf
+$ENDCMP
+#
+$CMP ATmega88PA-AU
+D 20MHz, 8kB Flash, 1kB SRAM, 512B EEPROM, TQFP-32
+K AVR 8bit Microcontroller MegaAVR PicoPower
+F http://ww1.microchip.com/downloads/en/DeviceDoc/ATmega48PA_88PA_168PA-Data-Sheet-40002011A.pdf
+$ENDCMP
+#
+$CMP ATmega88PV-10AU
+D 10MHz, 8kB Flash, 1kB SRAM, 512B EEPROM, TQFP-32
+K AVR 8bit Microcontroller MegaAVR
+F http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-8025-8-bit-AVR-Microcontroller-ATmega48P-88P-168P_Datasheet.pdf
+$ENDCMP
+#
+$CMP AVR_ICSP_without_VCC
+D AVR ICSP Connectior Without VCC Pin
+K AVR ICSP
+F ~
+$ENDCMP
+#
+$CMP FE1.1S
+D USB 2.0 HIGH SPEED 4-PORT HUB CONTROLLER
+$ENDCMP
+#
+$CMP KT818
+D 10A, Silicon Power PNP Transistors, TO-220
+K Power PNP Transistor
+F https://www.5v.ru/ds/trnz/kt818.htm
+$ENDCMP
+#
+$CMP PCM2704
+D STEREO AUDIO DAC WITH USB INTERFACE, SINGLE-ENDED HEADPHONE OUTPUT AND S/PDIF OUTPUT
+F http://www.ti.com/lit/ds/symlink/pcm2704.pdf
+$ENDCMP
+#
+$CMP PLS-1
+D PLS PIN
+$ENDCMP
+#
+$CMP PLS-2
+D PLS PIN
+$ENDCMP
+#
+$CMP PLS-3
+D PLS PIN
+$ENDCMP
+#
+$CMP PLS-3x2
+D PLS PIN
+$ENDCMP
+#
+$CMP PLS-4
+D PLS PIN
+$ENDCMP
+#
+$CMP PLS-4x2
+D PLS PIN
+$ENDCMP
+#
+$CMP PLS-5
+D PLS PIN
+$ENDCMP
+#
+$CMP PLS-5x2
+D PLS PIN
+$ENDCMP
+#
+$CMP PLS-5x3
+D PLS PIN
+$ENDCMP
+#
+$CMP PLS-6
+D PLS PIN
+$ENDCMP
+#
+$CMP ST-04M-160
+D Audio Jack, 3 Poles (Stereo / LRS), Switched LR Poles (Normalling)
+K audio jack receptacle stereo headphones phones LRS connector
+F https://www.cuidevices.com/product/resource/sj-356xn.pdf
+$ENDCMP
+#
+$CMP TDA7317
+D FIVE BANDS DIGITAL CONTROLLED GRAPHIC EQUALIZER
+$ENDCMP
+#
+$CMP TDA7419
+D 3 band car audio processor
+F https://st.com/resource/en/datasheet/tda7419.pdf
+$ENDCMP
+#
+$CMP TDA7439
+D Three-band digitally-controlled audio processor
+$ENDCMP
+#
+$CMP TDA7498
+D 100-watt + 100-watt dual BTL class-D audio amplifier
+K TDA7498
+F https://www.st.com/content/ccc/resource/technical/document/datasheet/db/c5/04/74/fd/08/43/de/CD00244535.pdf/files/CD00244535.pdf/jcr:content/translations/en.CD00244535.pdf
+$ENDCMP
+#
+#End Doc Library
